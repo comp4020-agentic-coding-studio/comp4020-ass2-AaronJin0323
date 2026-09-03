@@ -6,7 +6,7 @@ description:
 week: 2
 date: 2027-03-01
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - the instance you named in week 1 still holds up under a skeptic's
     questions

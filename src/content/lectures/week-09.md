@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-05-03
 teachers:
-  - marisol-quaye
+  - aaron-jin
 related:
   - sessions/09-lying-flat-discussed
 ---

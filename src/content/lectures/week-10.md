@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-05-10
 teachers:
-  - idris-fenn
+  - aaron-jin
 related:
   - sessions/10-three-case-studies
 ---

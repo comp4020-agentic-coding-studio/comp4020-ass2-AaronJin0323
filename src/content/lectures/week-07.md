@@ -6,7 +6,7 @@ description:
 week: 7
 date: 2027-04-19
 teachers:
-  - marisol-quaye
+  - aaron-jin
 related:
   - sessions/07-engagement-farming
 ---

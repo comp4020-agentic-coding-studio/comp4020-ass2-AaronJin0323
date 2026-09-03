@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-04-26
 teachers:
-  - idris-fenn
+  - aaron-jin
 related:
   - sessions/08-grade-your-own-syllabus
 ---

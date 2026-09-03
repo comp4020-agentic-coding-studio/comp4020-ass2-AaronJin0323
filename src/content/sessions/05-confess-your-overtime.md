@@ -6,7 +6,7 @@ description:
 week: 5
 date: 2027-03-22
 teachers:
-  - marisol-quaye
+  - aaron-jin
 spec:
   - you can separate one hour of real output from one hour of visible
     effort in your own week

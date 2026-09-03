@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-04-12
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - you can present your instance and its mechanism in under two minutes
   - you can name the one piece of evidence you're least sure holds up

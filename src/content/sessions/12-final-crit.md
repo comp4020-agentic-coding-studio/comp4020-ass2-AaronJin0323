@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-24
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - you present the mechanism your intervention targets, not just its
     surface fix

@@ -6,7 +6,7 @@ description:
 week: 11
 date: 2027-05-17
 teachers:
-  - marisol-quaye
+  - aaron-jin
 spec:
   - your intervention targets the mechanism, not just one symptom of it
   - you can say who loses if your intervention works, and whether that's

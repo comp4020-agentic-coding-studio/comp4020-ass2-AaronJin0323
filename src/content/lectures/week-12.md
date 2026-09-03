@@ -6,7 +6,7 @@ description:
 week: 12
 date: 2027-05-24
 teachers:
-  - idris-fenn
+  - aaron-jin
 related:
   - sessions/12-final-crit
 ---

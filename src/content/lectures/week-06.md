@@ -6,7 +6,7 @@ description:
 week: 6
 date: 2027-04-12
 teachers:
-  - idris-fenn
+  - aaron-jin
 related:
   - sessions/06-show-and-tell-auto-ethnographies
 ---

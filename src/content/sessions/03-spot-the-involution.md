@@ -6,7 +6,7 @@ description:
 week: 3
 date: 2027-03-08
 teachers:
-  - marisol-quaye
+  - aaron-jin
 spec:
   - you can distinguish involution from ordinary competition using Geertz's
     test, not just a feeling

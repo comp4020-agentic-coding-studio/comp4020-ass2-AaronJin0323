@@ -6,7 +6,7 @@ description:
 week: 4
 date: 2027-03-15
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - every annotated line names what it's competing against, not just what it
     says

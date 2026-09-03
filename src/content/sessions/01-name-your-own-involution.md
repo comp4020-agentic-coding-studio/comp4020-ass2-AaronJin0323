@@ -6,7 +6,7 @@ description:
 week: 1
 date: 2027-02-22
 teachers:
-  - marisol-quaye
+  - aaron-jin
 spec:
   - you can describe one real instance of your own effort rising without a
     matching result

@@ -6,7 +6,7 @@ description:
 week: 9
 date: 2027-05-03
 teachers:
-  - marisol-quaye
+  - aaron-jin
 spec:
   - you name a real cost of the exit strategy you're defending, not just its
     appeal

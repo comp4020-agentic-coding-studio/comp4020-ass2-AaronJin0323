@@ -9,6 +9,7 @@ email: marisol.quaye@slop.university
 contact: Email for course-level questions; use the weekly session for feedback on work.
 photo: ./marisol-quaye.avif
 photoAlt: A stylised portrait of a person in three-quarter view, flat gold and black shapes on warm cream, in a two-ink risograph print
+published: false
 ---
 
 Designed Advanced Involution's twelve-week arc on the theory that the best

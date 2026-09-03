@@ -6,7 +6,7 @@ description:
 week: 10
 date: 2027-05-10
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - you compare at least two of K-pop trainee systems, standardised-test
     admissions, or housing markets on the same named mechanism

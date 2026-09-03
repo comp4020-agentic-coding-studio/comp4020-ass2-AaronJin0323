@@ -6,7 +6,7 @@ description:
 week: 8
 date: 2027-04-26
 teachers:
-  - idris-fenn
+  - aaron-jin
 spec:
   - you apply Geertz's test to this course, not just to an external example
   - you can name one part of this course that would survive being cut, and
