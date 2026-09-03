@@ -1,23 +1,22 @@
 ---
-title: Second lecture
+title: Diminishing Returns Before It Was Cool
 description:
-  Week 2 — the first substantive material, and the run-up to the first review
+  Involution had a life before the internet — in peasant economies, guild
+  ladders, and the slow inflation of "entry level"
 week: 2
 date: 2027-03-01
 teachers:
   - idris-fenn
 related:
   - sessions/02-first-review
-  - assessments/assignment-1
 ---
-
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. It exists so the lectures listing sorts by week and the
-related block has more than one edge to draw.
 
 ## Outline
 
-- the first substantive material, and where it shows up in practice
-- what the first review is looking for
-- reading before next week
+- Alexander Chayanov's theory of the peasant household: labour that keeps
+  going past the point of marginal return, because there's nowhere else for
+  it to go
+- guild apprenticeship ladders that got longer as they got more crowded, not
+  as the craft got harder
+- a short history of "entry-level" job requirements
+- what these older cases have that a meme doesn't: no algorithm to blame

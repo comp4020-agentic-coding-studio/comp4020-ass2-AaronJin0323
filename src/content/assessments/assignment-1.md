@@ -1,46 +1,45 @@
 ---
-title: Assignment 1
+title: Auto-Ethnography of Your Own Involution
 description:
-  The first piece of graded work — a placeholder brief showing the shape every
-  assessment page follows
+  Document and analyse one real instance of your own effort rising while
+  your progress didn't, using the semester's own vocabulary to name why
 week: 6
 due: 2027-04-12T12:00:00+10:00
 weight: 40
 marking:
   mode: weighted
   criteria:
-    - name: Response to the brief
+    - name: The instance is real and specific, not hypothetical
       weight: 60
-    - name: Quality of execution
+    - name: The analysis names the mechanism, not just the feeling
       weight: 40
 spec:
   - submitted by the deadline, in the format named below
-  - it does the thing the brief asks for, and a reader can tell that it does
+  - the instance is something you actually did, with dates or evidence a
+    reader could check
+  - the analysis names which weeks 1-5 mechanism is operating, not just that
+    "it felt like a lot of effort for nothing"
   - the work is yours, with any assistance declared
 related:
-  - final-project
+  - sessions/01-name-your-own-involution
+  - sessions/06-show-and-tell-auto-ethnographies
 ---
-
-<!-- STARTER_CONTENT: replace this assessment brief, then remove this comment. -->
-
-Replace this brief. An assessment page has three jobs: pose the problem, say
-what is submitted, and say how it is marked.
 
 ## The brief
 
-> One sentence stating the problem, set as a blockquote so it reads as the thing
-> being asked rather than as commentary on it.
+> Find one real place where you personally kept trying harder for a return
+> that stopped growing, and explain why, using this course's tools.
 
-Then a paragraph or two on what makes a strong response --- the room the brief
-leaves, and the judgement it is testing. Keep the provocation and the mechanics
-apart: a student should be able to read the first and know what to make, and
-read the second and know what to hand in.
+Weeks 1-5 gave you a vocabulary for this: Geertz's rice paddies, Chayanov's
+peasant economics, credential inflation, 996 presenteeism. Pick one instance
+from your own life — study habits, a job, a hobby, a social feed — where
+that vocabulary actually applies, not just resembles. The strongest
+submissions resist the temptation to reach for the most dramatic example and
+instead pick the one they can document precisely.
 
 ## What you submit
 
-Name the artefact and the format. If evidence of process is part of the
-submission, say which files and what each is for.
-
-The optional `marking:` block renders a criterion table (weighted) or a marking
-statement (holistic) below; leave it out and say how the work is marked in
-prose.
+A short auto-ethnography (1500-2500 words): the instance, the evidence that
+it happened as described, and an analysis naming the specific mechanism at
+work and why it kept running past the point of diminishing return. Cite the
+week whose framework you're using.

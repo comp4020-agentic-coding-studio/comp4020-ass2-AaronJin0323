@@ -1,17 +1,20 @@
 ---
 title: Idris Fenn
 description:
-  A tutor working across the course's first reviews and the practical work that
-  follows them.
+  Tutor running the even-numbered weeks' crits, and the one who keeps asking
+  whether the room's diagnosis would survive contact with more evidence.
 affiliation: Slop University School of Invented Disciplines
-role: tutor
+role: Tutor, Applied Escalation
 email: idris.fenn@slop.university
 contact: Ask during sessions, or email when a question cannot wait until the next one.
 photo: ./idris-fenn.avif
 photoAlt: A stylised portrait of a person facing the viewer, flat gold and black shapes on warm cream, in a two-ink risograph print
 ---
 
-<!-- STARTER_CONTENT: replace this person entry, then remove this comment. -->
+Runs the even-numbered weeks' crits, from the résumé annotation in week 4
+through to the final crit in week 12. Trained in game theory before drifting
+into whatever this course is; brings the Red Queen effect up more than
+strictly necessary.
 
-Replace this entry. A second person makes the listing, role ordering and
-teacher-reference fields visible before you replace the cast with your own.
+Ask in session first — the fastest feedback loop in the course is the one
+that runs live in front of the room the argument is actually for.
