@@ -13,8 +13,13 @@ related:
 
 ## Outline
 
-- publish-or-perish and the citation-count arms race
-- grade inflation as the same mechanism running in slow motion
-- the self-aware bit: twelve weeks, two assessments, and a syllabus that has
-  been getting longer since week 1 — involution, or just teaching?
-- a test you can run on your own workload, starting today
+- publish-or-perish and the citation-count arms race, read as a KPI
+  regime applied to scholarship
+- grade inflation as the identical mechanism running as a slow-motion
+  continuous-improvement process
+- the self-audit: twelve weeks, two assessment instruments, and a
+  syllabus whose word count has trended upward every year without a
+  corresponding increase in learning outcomes — involution, or just
+  teaching?
+- an audit you can run on your own workload today, using the same
+  instrument

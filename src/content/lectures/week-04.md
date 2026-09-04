@@ -13,11 +13,11 @@ related:
 
 ## Outline
 
-- the credential arms race: degrees, unpaid internships and certificates as
-  positional goods rather than skills
-- why an employer can't unilaterally stop asking for more without losing
-  the arms race against other employers
-- LinkedIn as an accelerant — visible competition raises the bar for
-  everyone watching
-- continued from week 2: how "entry level" quietly stopped meaning entry
-  level
+- the credential arms race: degrees, unpaid internships, and certificates
+  functioning as positional goods rather than skill signals
+- why no single employer can unilaterally de-escalate requirements without
+  losing competitive positioning against other employers
+- LinkedIn as an accelerant: visible competitive signalling raises the
+  baseline expectation for every observer
+- continued from week 2: how "entry level" quietly became a credentialing
+  tier rather than a starting point

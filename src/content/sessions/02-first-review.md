@@ -8,26 +8,26 @@ date: 2027-03-01
 teachers:
   - aaron-jin
 spec:
-  - the instance you named in week 1 still holds up under a skeptic's
-    questions
-  - you can name one pre-2020 case that resembles it
+  - the instance named in week 1 demonstrates continued validity under
+    adversarial questioning, not just author confidence
+  - you can situate one pre-2020 precedent within the same analytic frame
 related:
   - lectures/week-02
 ---
 
 ## Before the session
 
-Bring the instance from week 1 and one historical case that resembles it —
-Chayanov's peasants, a guild ladder, anything from before the term went
-viral.
+Bring the instance from week 1, plus one historical precedent that
+demonstrates the same underlying dynamic — Chayanov's peasants, a guild
+ladder, or an equivalent case predating the term's viral currency.
 
 ## In the session
 
-Short reviews, then feedback aimed at whether the instance actually is
-involution rather than just effort. The room is allowed to reclassify your
-pitch.
+Short reviews, followed by structured feedback addressing whether the
+instance constitutes involution proper, rather than ordinary effort. The
+room retains the right to reclassify your pitch.
 
 ## Afterwards
 
-If your instance survives a second round of scrutiny, it's solid enough to
-carry into Assignment 1.
+An instance that survives a second round of scrutiny is considered
+sufficiently robust to carry into Assignment 1.

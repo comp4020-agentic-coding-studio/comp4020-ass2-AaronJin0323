@@ -13,10 +13,10 @@ related:
 
 ## Outline
 
-- Alexander Chayanov's theory of the peasant household: labour that keeps
-  going past the point of marginal return, because there's nowhere else for
-  it to go
-- guild apprenticeship ladders that got longer as they got more crowded, not
-  as the craft got harder
-- a short history of "entry-level" job requirements
-- what these older cases have that a meme doesn't: no algorithm to blame
+- Alexander Chayanov's theory of the peasant household: labour allocated
+  past the point of marginal return, absent an alternative use for it
+- guild apprenticeship ladders whose length tracked congestion in the
+  trade, not its difficulty
+- a short history of the credentialing creep behind "entry-level"
+- what distinguishes these precedents from a meme: no algorithm available
+  to assign the blame to

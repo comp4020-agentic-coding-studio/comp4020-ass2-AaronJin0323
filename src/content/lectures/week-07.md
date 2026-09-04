@@ -13,10 +13,11 @@ related:
 
 ## Outline
 
-- algorithmic feeds as a Red Queen environment: everyone posting more to
-  hold the same share of attention
-- the content treadmill — posting frequency rising as engagement per post
-  falls
-- creator burnout as the workplace-overtime story from week 5, wearing
-  different clothes
-- what a platform would actually have to change to stop rewarding volume
+- algorithmic feeds as a Red Queen environment: every creator running a
+  growth loop just to hold a flat share of the attention funnel
+- the content treadmill: posting cadence scaling up as engagement-per-post
+  scales down, visible on any creator's own analytics dashboard
+- creator burnout as the workplace-overtime story from week 5,
+  re-platformed with a dashboard attached
+- what a platform's actual incentive structure would have to change to
+  stop rewarding raw volume

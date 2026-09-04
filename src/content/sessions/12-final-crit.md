@@ -1,8 +1,8 @@
 ---
 title: "Final Crit"
 description:
-  Present your intervention design to the room and defend it against the
-  same test the course has been applying all semester
+  Present your intervention to the room and face the same test the course
+  opened with
 week: 12
 date: 2027-05-24
 teachers:
@@ -10,8 +10,8 @@ teachers:
 spec:
   - you present the mechanism your intervention targets, not just its
     surface fix
-  - you answer the room's hardest question live, not by referring to the
-    written submission
+  - you answer the room's hardest question live, not by pointing back at
+    the write-up
 related:
   - lectures/week-12
   - assessments/final-project
@@ -19,16 +19,15 @@ related:
 
 ## Before the session
 
-Have a presentable version of your final project ready — this crit is not a
-rehearsal, it's the last room your intervention faces before submission.
+Have your final project ready to show. This isn't a rehearsal — it's the
+last room your intervention faces before submission.
 
 ## In the session
 
-Short presentation, then the room applies Geertz's test from week 1 one
-last time: does this intervention buy real change, or more effort for the
-same equilibrium?
+Present, then the room asks the same question week 1 opened with: does
+this buy real change, or more effort for the same result?
 
 ## Afterwards
 
-Fold whatever the room surfaces into your submission before the final
-project deadline.
+Take whatever the room raises and fold it into your submission before the
+deadline.

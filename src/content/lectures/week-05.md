@@ -13,9 +13,11 @@ related:
 
 ## Outline
 
-- the 996 schedule and the 2019 programmer-led backlash that put it on
-  GitHub as 996.ICU
-- presenteeism: hours logged as a proxy for output, and what happens once
-  everyone knows it's a proxy
-- performative overtime — staying late for the room, not the work
-- where this maps back onto Geertz: labour rising, output flat
+- the 996 schedule and the 2019 developer-led backlash that shipped as a
+  GitHub repo, 996.ICU — itself a piece of unpaid overtime
+- presenteeism as a key performance indicator by proxy: hours logged
+  standing in for output, until the proxy becomes common knowledge
+- performative overtime as a visibility strategy — optimising for who's in
+  the room, not what gets shipped
+- mapping this back onto Geertz: labour trending up, output flat, one KPI
+  at a time

@@ -13,11 +13,11 @@ related:
 
 ## Outline
 
-- K-pop trainee systems: years of unpaid training against debut odds that
-  fall as the industry scales
-- admissions arms races: test-prep escalation that raises everyone's score
-  and nobody's relative rank
-- housing as a positional good: bidding wars that price out the median buyer
-  without adding housing
-- what the three share structurally, and where "involution" stops explaining
-  and starts merely describing
+- K-pop trainee systems: years of unpaid training weighed against debut
+  odds that fall as the industry scales
+- admissions races: test-preparation escalation that raises everyone's
+  score and no one's relative rank
+- housing as a positional good: bidding wars that price out the median
+  buyer without adding a single dwelling
+- what the three share structurally, and the point past which
+  "involution" stops explaining and starts merely describing
