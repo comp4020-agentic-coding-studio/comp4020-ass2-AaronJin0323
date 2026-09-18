@@ -7,6 +7,11 @@ affiliation: Slop University School of Invented Disciplines
 role: Convenor, Lecturer & Tutor; 卷王 (Involution King)
 email: aaron.jin@slop.university
 contact: Email anytime; there is no one else to forward it to.
+photo: ./aaron-jin.avif
+photoAlt: A stylised portrait of a person facing the viewer, short hair
+  parted hard to one side, flat gold and black shapes on warm cream, in a
+  two-ink risograph print
+published: true
 ---
 
 Designs the syllabus, delivers every lecture, runs every seminar, and marks
