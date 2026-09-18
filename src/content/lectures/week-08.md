@@ -7,6 +7,7 @@ week: 8
 date: 2027-04-26
 teachers:
   - aaron-jin
+slides: /decks/week-08/
 related:
   - sessions/08-grade-your-own-syllabus
 ---
