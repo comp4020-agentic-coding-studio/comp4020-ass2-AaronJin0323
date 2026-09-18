@@ -28,8 +28,14 @@ again even if the last five were all "yes."
   "Outline" with real named content (not structural filler).
 - `related` edges render bidirectionally — declare them once, from
   either side, not both.
-- Single teacher (`aaron-jin`) across the whole course — convenor,
-  lecturer, and tutor in one.
+- Single active teacher (`aaron-jin`) across the whole course — convenor,
+  lecturer, and tutor in one. Every `teachers:` field names only him.
+  Marisol Quaye and Idris Fenn are published as emeritus/consolidated-away
+  founding faculty — real profile pages, not active staff — so never add
+  them to a `teachers:` field. Their bios pin both departures on Aaron's
+  coverage becoming the baseline: he is the course's 卷王, glossed in
+  `lectures/week-03.md`. Keep that causal line intact — don't soften it
+  back to a faceless "restructure."
 
 ## Retiring content
 When content is superseded but not wrong, prefer `published: false`

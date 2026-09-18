@@ -18,6 +18,10 @@ related:
   benefit)
 - gaokao culture and "chicken-blood parenting" (_jiwa_) as the training
   ground the term grew out of
+- 卷王 (_juanwang_, "involution king"): the vocabulary's one name for a
+  person rather than a system — conferred by the competitors left behind,
+  never claimed, and describing whoever set the new floor rather than
+  whoever cleared the old one
 - how _neijuan_ (内卷) travelled from sociology seminar to group-chat
   shorthand in under a year
 - what a term gains, and loses, on the way from academic paper to meme
