@@ -1,5 +1,5 @@
 ---
-title: First review
+title: "Crit: First Review"
 description:
   The second session — the instance you named in week 1 meets a skeptical
   room for the first time

@@ -1,5 +1,5 @@
 ---
-title: "Show and Tell: Auto-Ethnographies"
+title: "Crit: Auto-Ethnographies"
 description:
   Assignment 1 is due this week — a short session to present the instance
   you've been tracking since week 1, before it's marked

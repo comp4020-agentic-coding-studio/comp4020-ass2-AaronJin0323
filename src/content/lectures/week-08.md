@@ -14,13 +14,12 @@ related:
 
 ## Outline
 
-- publish-or-perish and the citation-count arms race, read as a KPI
-  regime applied to scholarship
-- grade inflation as the identical mechanism running as a slow-motion
-  continuous-improvement process
-- the self-audit: twelve weeks, two assessment instruments, and a
-  syllabus whose word count has trended upward every year without a
-  corresponding increase in learning outcomes — involution, or just
-  teaching?
-- an audit you can run on your own workload today, using the same
-  instrument
+- publish-or-perish: the citation-count arms race as a KPI regime
+  applied to scholarship
+- grade inflation as the identical mechanism, slower
+- the self-audit: this syllabus counted rather than felt — involution,
+  or just teaching?
+- the same count turned on the teaching team: one convenor lecturing and
+  tutoring both, because his covering all three set the baseline the
+  other two were measured against — the course's 卷王
+- the same audit, on your own workload

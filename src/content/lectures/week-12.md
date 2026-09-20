@@ -17,7 +17,8 @@ related:
 - twelve weeks, one mechanism, different clothes: rice paddies, resumes,
   overtime, boardrooms, feeds, syllabi, exits, trainees, housing
 - and one more instance, in case it wasn't obvious: the language of this
-  syllabus, which got fancier every week through week 8 and says nothing
+  syllabus, which escalated in register through week 8 — not in length,
+  as week 8's own audit reported when it went looking — and says nothing
   fancy now
 - naming a loop doesn't dissolve it — what naming does actually buy you
 - close: this course escalated for twelve weeks, in its workload and in

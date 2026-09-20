@@ -1,5 +1,5 @@
 ---
-title: Confess Your Overtime
+title: "Seminar: Confess Your Overtime"
 description:
   A closed-room session benchmarking self-reported hours against verifiable
   output — separating activity from impact

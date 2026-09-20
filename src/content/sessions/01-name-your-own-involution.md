@@ -1,5 +1,5 @@
 ---
-title: Naming Your Own Involution
+title: "Seminar: Naming Your Own Involution"
 description:
   The opening session — find one place in your own life where effort has
   been rising while the result hasn't, and bring it
