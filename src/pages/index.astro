@@ -1,13 +1,13 @@
 ---
 import Card from "astro-theme-university/components/Card.astro";
 import CardGrid from "astro-theme-university/components/CardGrid.astro";
-import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
+import ContentPageLayout from "../layouts/ContentPageLayout.astro";
 import heroImage from "../assets/images/hero-home.avif";
 import { courseMeta } from "../course-config";
 import { sessionLabels, siteConfig } from "../site-config";
 ---
 
-<ContentLayout
+<ContentPageLayout
   title={`${courseMeta.code}: ${courseMeta.title}`}
   description={courseMeta.description}
   heroImage={heroImage}
@@ -68,7 +68,7 @@ import { sessionLabels, siteConfig } from "../site-config";
       <p>Who teaches the course and how to reach them.</p>
     </Card>
   </CardGrid>
-</ContentLayout>
+</ContentPageLayout>
 
 <style>
   .course-tags {
@@ -80,11 +80,12 @@ import { sessionLabels, siteConfig } from "../site-config";
     list-style: none;
   }
 
+  /* Squared off and keylined rather than filled pills, to sit in the
+     same hard-edged two-ink register as the rest of the site. */
   .course-tags li {
     padding: 0.25rem 0.65rem;
-    border-radius: 999px;
+    border: 1px solid var(--at-border);
     color: var(--at-text-secondary);
-    background: var(--at-bg-alt);
     font-size: 0.9rem;
   }
 </style>

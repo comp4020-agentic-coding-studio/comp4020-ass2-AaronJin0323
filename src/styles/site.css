@@ -1,0 +1,70 @@
+/* Site-wide styling, layered on top of the Slop brand tokens.
+ *
+ * The course artwork is a two-ink risograph print — flat fills, hard edges,
+ * gold used as a structural ink rather than decoration. These rules carry
+ * that into the page furniture so the images and the site are the same
+ * object. Every colour here is a theme token: the brand owns the palette,
+ * and a hex restated at this level is how the two start to disagree.
+ *
+ * Imported by both layout wrappers, since the theme's MDX and content
+ * layouts are siblings over BaseLayout rather than nested.
+ */
+
+/* A risograph has no rounded corners. One token squares every card,
+   callout, button and code block at once. */
+:root {
+  --at-border-radius: 0;
+}
+
+/* The spec block is a deliverable's contract and the first thing a
+   marker looks for, and the theme ships it unstyled. Give it the flat
+   tinted panel and hard gold rule the print language uses for an
+   inset document. */
+.spec-list {
+  margin-block: var(--at-spacing-xl);
+  padding: var(--at-spacing-md) var(--at-spacing-lg);
+  background: var(--at-accent-soft);
+  border-inline-start: 3px solid var(--at-primary);
+}
+
+.spec-list h2 {
+  margin-block: 0 var(--at-spacing-xs);
+  font-size: var(--at-font-size-h6);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Secondary rather than muted: muted's alpha is tuned against the page
+   background, and this sits on a tinted panel. */
+.spec-list > p {
+  color: var(--at-text-secondary);
+  font-size: var(--at-font-size-sm);
+}
+
+.spec-list ul {
+  margin-block-end: 0;
+}
+
+.spec-list li {
+  margin-block-end: var(--at-spacing-xs);
+}
+
+.spec-list li::marker {
+  color: var(--at-primary);
+}
+
+/* The theme already draws a gold rule down the content column and under
+   the hero title. Section headings take the same device at body scale,
+   so the page reads as ruled rather than merely spaced. Direct children
+   only — the spec and related blocks have headings of their own. */
+.at-main > h2 {
+  padding-block-end: var(--at-spacing-xs);
+  border-block-end: 1px solid var(--at-border);
+}
+
+/* The portraits are square. The theme's card image is 16/9, which crops
+   a face to a letterbox strip across the eyes. */
+.people-grid .at-card-image {
+  aspect-ratio: 1;
+  background: var(--at-bg-alt);
+}

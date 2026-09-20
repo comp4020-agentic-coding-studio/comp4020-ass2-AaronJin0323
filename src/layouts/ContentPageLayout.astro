@@ -1,0 +1,18 @@
+---
+/**
+ * Wrapper for the `.astro` routes, which render through the theme's
+ * ContentLayout rather than its MDX layout. Transparent — it exists so the
+ * site stylesheet has one import site per layout family instead of one per
+ * page. See its sibling PageLayout.
+ */
+import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
+import type { ContentLayoutProps } from "astro-theme-university/layouts/ContentLayout.astro";
+import "../styles/site.css";
+
+type Props = ContentLayoutProps;
+---
+
+<ContentLayout {...Astro.props}>
+  <slot name="head" slot="head" />
+  <slot />
+</ContentLayout>

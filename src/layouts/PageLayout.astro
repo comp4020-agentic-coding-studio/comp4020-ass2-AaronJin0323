@@ -1,6 +1,13 @@
 ---
+/**
+ * Wrapper for the MDX pages, wired up as the integration's `defaultLayout`.
+ * Its sibling ContentPageLayout covers the `.astro` routes; both import the
+ * same stylesheet, because the theme's two layouts are siblings over
+ * BaseLayout rather than nested, so neither alone reaches every page.
+ */
 import MdxPageLayout from "astro-theme-university/layouts/MdxPageLayout.astro";
 import { siteConfig } from "../site-config";
+import "../styles/site.css";
 ---
 
 <MdxPageLayout siteConfig={siteConfig} {...Astro.props}>

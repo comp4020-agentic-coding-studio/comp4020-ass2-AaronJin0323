@@ -1,7 +1,7 @@
 ---
 import { render } from "astro:content";
 import { getPublishedCollection } from "astro-course-university/content";
-import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
+import ContentPageLayout from "../../layouts/ContentPageLayout.astro";
 import { siteConfig } from "../../site-config";
 
 export async function getStaticPaths() {
@@ -24,7 +24,7 @@ const photoAlt = typeof rawPhotoAlt === "string" ? rawPhotoAlt : "";
 const description = person.data.description;
 ---
 
-<ContentLayout
+<ContentPageLayout
   title={person.data.title}
   description={description}
   heroImage={person.data.photo ?? undefined}
@@ -65,4 +65,4 @@ const description = person.data.description;
   </dl>
 
   <Content />
-</ContentLayout>
+</ContentPageLayout>
